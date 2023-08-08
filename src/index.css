@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Borel&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::after,
+::before {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  font-family: "Inter", sans-serif;
+  background: #f5f7fb;
+}
+#root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.bg-image-1 {
+  background-image: url("../src/assets/background-1.png");
+}
+.bg-image-2 {
+  background-image: url("../src/assets/background-2.png");
+}
+
+.active {
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px 0px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px,
+    rgba(0, 0, 0, 0.2) 0px -3px 0px 0px inset;
+}
+.shadow {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px 0px;
+}
+.off {
+  box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset,
+    rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+.on {
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px 0px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px,
+    rgba(0, 0, 0, 0.2) 0px -3px 0px 0px inset;
+}
