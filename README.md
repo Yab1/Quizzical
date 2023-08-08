@@ -36,6 +36,6 @@ Contributions are welcome! If you'd like to improve Quizical or add new features
 
 ---
 
-Visit Quizical [Live Demo](https://your-quizical-app-url.com)  
+Visit Quizical [Live Demo](https://yab1.github.io/Quizzical/)  
 Connect with us:  
 Follow me on [LinkedIn](https://www.linkedin.com/in/yeabsera-lisanework-7570981ba/) | Check out my [GitHub](https://github.com/Yab1) repository
