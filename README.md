@@ -1,6 +1,6 @@
 # Quizical - Quiz App
 
-![Quizical Logo](link-to-your-logo.png)
+![Quizical Logo](./public/favicon.ico.png)
 
 Welcome to Quizical, your go-to quiz app for testing your knowledge on various topics! Whether you're a trivia enthusiast or just looking for some fun challenges, Quizical has you covered.
 
