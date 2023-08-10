@@ -1,20 +1,20 @@
-# Quizical - Quiz App
+# Quizzical - Quiz App
 
-![Quizical Logo](https://github.com/Yab1/Quizzical/blob/main/public/favicon.ico)
+![Quizzical Logo](https://github.com/Yab1/Quizzical/blob/main/public/favicon.ico)
 
-Welcome to Quizical, your go-to quiz app for testing your knowledge on various topics! Whether you're a trivia enthusiast or just looking for some fun challenges, Quizical has you covered.
+Welcome to Quizzical, your go-to quiz app for testing your knowledge on various topics! Whether you're a trivia enthusiast or just looking for some fun challenges, Quizzical has you covered.
 
 ## Table of Contents
 
-- [About Quizical](#about-quizical)
+- [About Quizzical](#about-quizzical)
 - [Features](#features)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
-## About Quizical
+## About Quizzical
 
-Quizical is a web-based quiz app that offers a wide range of quizzes on different subjects. Test your knowledge, challenge your friends, and have a great time while learning something new. The app provides an engaging and user-friendly experience for both casual users and dedicated quizzers.
+Quizzical is a web-based quiz app that offers a wide range of quizzes on different subjects. Test your knowledge, challenge your friends, and have a great time while learning something new. The app provides an engaging and user-friendly experience for both casual users and dedicated quizzers.
 
 ## Features
 
@@ -44,10 +44,10 @@ Quizical is a web-based quiz app that offers a wide range of quizzes on differen
 
 ## Contributing
 
-Contributions are welcome! If you'd like to improve Quizical or add new features, feel free to fork the repository, create a new branch, and submit a pull request. You can also report issues or suggest enhancements through the GitHub issue tracker.
+Contributions are welcome! If you'd like to improve Quizzical or add new features, feel free to fork the repository, create a new branch, and submit a pull request. You can also report issues or suggest enhancements through the GitHub issue tracker.
 
 ---
 
-Visit Quizical [Live Demo](https://quizzical-psi-one.vercel.app/)  
+Visit Quizzical [Live Demo](https://quizzical-psi-one.vercel.app/)  
 Connect with me:  
 Follow me on [LinkedIn](https://www.linkedin.com/in/yeabsera-lisanework-7570981ba/) | Check out my [GitHub](https://github.com/Yab1) repository
