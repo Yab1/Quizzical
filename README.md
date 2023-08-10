@@ -9,6 +9,7 @@ Welcome to Quizical, your go-to quiz app for testing your knowledge on various t
 - [About Quizical](#about-quizical)
 - [Features](#features)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
 ## About Quizical
@@ -30,12 +31,17 @@ Quizical is a web-based quiz app that offers a wide range of quizzes on differen
 - Begin the quiz and respond to each question.
 - Receive immediate feedback on your answers.
 
+## Screenshots
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to improve Quizical or add new features, feel free to fork the repository, create a new branch, and submit a pull request. You can also report issues or suggest enhancements through the GitHub issue tracker.
 
 ---
 
-Visit Quizical [Live Demo](https://yab1.github.io/Quizzical/)  
-Connect with us:  
+Visit Quizical [Live Demo]()  
+Connect with me:  
 Follow me on [LinkedIn](https://www.linkedin.com/in/yeabsera-lisanework-7570981ba/) | Check out my [GitHub](https://github.com/Yab1) repository
