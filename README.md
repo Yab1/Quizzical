@@ -33,8 +33,12 @@ Quizical is a web-based quiz app that offers a wide range of quizzes on differen
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+<table>
+  <tr>
+    <td><img src="screenshot1.png" alt="Screenshot 1" width="400"/></td>
+    <td><img src="screenshot2.png" alt="Screenshot 2" width="400"/></td>
+  </tr>
+</table>
 
 ## Contributing
 
