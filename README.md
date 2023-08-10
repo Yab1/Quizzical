@@ -48,6 +48,6 @@ Contributions are welcome! If you'd like to improve Quizical or add new features
 
 ---
 
-Visit Quizical [Live Demo]()  
+Visit Quizical [Live Demo](https://quizzical-psi-one.vercel.app/)  
 Connect with me:  
 Follow me on [LinkedIn](https://www.linkedin.com/in/yeabsera-lisanework-7570981ba/) | Check out my [GitHub](https://github.com/Yab1) repository
