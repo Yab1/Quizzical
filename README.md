@@ -36,7 +36,13 @@ Quizical is a web-based quiz app that offers a wide range of quizzes on differen
 <table>
   <tr>
     <td><img src="https://github.com/Yab1/Quizzical/blob/main/src/assets/screenshot1.png" alt="Screenshot 1" width="400"/></td>
-    <td><img src="screenshot2.png" alt="Screenshot 2" width="400"/></td>
+    <td><img src="https://github.com/Yab1/Quizzical/blob/main/src/assets/screenshot2.png" alt="Screenshot 2" width="400"/></td>
+    <td><img src="https://github.com/Yab1/Quizzical/blob/main/src/assets/screenshot3.png" alt="Screenshot 2" width="400"/></td>
+    <td><img src="https://github.com/Yab1/Quizzical/blob/main/src/assets/screenshot4.png" alt="Screenshot 2" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Yab1/Quizzical/blob/main/src/assets/screenshot3.png" alt="Screenshot 2" width="400"/></td>
+    <td><img src="https://github.com/Yab1/Quizzical/blob/main/src/assets/screenshot4.png" alt="Screenshot 2" width="400"/></td>
   </tr>
 </table>
 
